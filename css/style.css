@@ -1,0 +1,47 @@
+#logo{
+    height: 200px;
+    width: 200px;
+    margin-left: 30px;
+}
+#unicorn{
+    height: 50px;
+    width: 50px;
+}
+.carousel-item{
+    object-fit: contain;
+    max-width: 100%;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+  }
+  .map-container iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+  }
+  .block-contact{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  footer {
+    background-color: #000000;
+    margin-bottom: 0px;
+}
+#unico{
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
+#fotos{
+    display: flex;
+    flex-direction: row;
+  margin-left: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
